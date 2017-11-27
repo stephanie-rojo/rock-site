@@ -10,8 +10,17 @@
     margin-right: 10%;
     padding-top: -10%;
   }
-  li{
+  .menu2{
     display: none;
+  }
+  .barra{
+    display: inline-block;
+    width: 20%;
+    padding-left: 18%;
+    padding-top: 5%;
+  }
+  .stb{
+    width: 70%;
   }
 
 }

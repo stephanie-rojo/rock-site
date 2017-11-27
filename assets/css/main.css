@@ -19,6 +19,9 @@ li{
 nav {
   margin-left: 300px;
 }
+.barra{
+  display: none;
+}
 
 /* estilo imagen con texto centrado*/
 #picture{
