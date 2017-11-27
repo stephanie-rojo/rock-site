@@ -1,0 +1,95 @@
+/* estilo a encabezado*/
+#encabezado{
+  background-color: #3E4042;
+  height: 60px;
+}
+.menu{
+  font-family: 'Numans', sans-serif;
+  margin-top: 12px;
+  color: white;
+  margin-left: 50px;
+}
+li{
+  display: inline-block;
+  font-family: 'Numans', sans-serif;
+  margin-top: 12px;
+  color: white;
+  margin-left: 10px;
+}
+nav {
+  margin-left: 300px;
+}
+
+/* estilo imagen con texto centrado*/
+#picture{
+  background-image: url("../imag/header.jpg");
+  background-size: cover;
+}
+h1{
+  color: white;
+  text-align: center;
+  font-family: 'Numans', sans-serif;
+  font-size: 80px;
+  margin-top: 450px;
+}
+.subtitulo{
+  color: white;
+  text-align: center;
+  font-family: 'Numans', sans-serif;
+  font-size: 40px;
+  margin-bottom: 400px;
+}
+
+/* estilo a textos e imagenes circulares*/
+#texto-imagen{
+  background-color: white;
+}
+.about{
+  color: #696969;
+  font-family: 'Numans', sans-serif;
+  font-size: 50px;
+  padding-top: 150px;
+  margin-left: 80px;
+}
+.texto{
+  font-size: 15px;
+  font-family: 'Numans', sans-serif;
+  margin-left: 80px;
+  font-weight: bold;
+  color: 	#A9A9A9;
+}
+.guitarra{
+  border-radius: 300px;
+  padding: 50px;
+}
+.gente{
+  border-radius: 300px;
+  padding: 50px;
+}
+.salute{
+  color: #696969;
+  font-family: 'Numans', sans-serif;
+  font-size: 50px;
+  padding-top: 150px;
+  margin-left: 80px;
+}
+.texto2{
+  font-size: 15px;
+  font-family: 'Numans', sans-serif;
+  font-weight: bold;
+  color: 	#A9A9A9;
+  margin-left: 80px;
+}
+
+/* estilo a footer*/
+#bajada-final{
+  background-color: #3E4042;
+  height: 50px;
+}
+.final{
+  color: white;
+  text-align: center;
+  font-family: 'Numans', sans-serif;
+  font-size: 15px;
+  padding-top: 12px;
+}

@@ -1,0 +1,17 @@
+@media (min-width:200px) and (max-width:600px) {
+  [class*='col-']{
+    width: 100%;
+  }
+  img{
+    width: 80%;
+    margin-left: 20%
+  }
+  p{
+    margin-right: 10%;
+    padding-top: -10%;
+  }
+  li{
+    display: none;
+  }
+
+}
